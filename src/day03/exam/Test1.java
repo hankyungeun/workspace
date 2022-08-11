@@ -3,6 +3,7 @@ package day03.exam;
 class Parent1 {
 	int i = 5;
 	public int get(){
+
 		return i;
 	}
 }
